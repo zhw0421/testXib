@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"zhw test");
+    NSLog(@"zhw merge === 111111");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
